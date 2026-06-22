@@ -48,3 +48,7 @@ Dashboard Insights
 2. Differences in riding patterns between members and casual riders
 3. Average ride duration trends
 4. Seasonal usage behaviour
+
+## Dashboard Preview
+
+![Cyclistic Dashboard](Cyclistic%20Dashboard.png)
