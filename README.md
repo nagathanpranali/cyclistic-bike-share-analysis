@@ -2,7 +2,7 @@
 Tableau dashboard analyzing behavioral differences between annual members and casual riders using Cyclistic bike-share data.
 This project was completed as the capstone case study for the Google Data Analytics Professional Certificate.
 
-Live Dashboard: [Cyclistic Bike Share Analysis Dashboard](https://public.tableau.com/app/profile/pranali.nagathan/viz/CyclisticBikeShareAnalysisDashboard_17798624750590/Dashboard1?publish=yes)
+### Live Dashboard: [Cyclistic Bike Share Analysis Dashboard](https://public.tableau.com/app/profile/pranali.nagathan/viz/CyclisticBikeShareAnalysisDashboard_17798624750590/Dashboard1?publish=yes)
 
 ### Business Objective
 Analyze customer riding behaviour to identify differences between casual riders and annual members and support strategies for converting casual riders into annual members.
