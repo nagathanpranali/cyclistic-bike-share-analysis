@@ -4,10 +4,10 @@ This project was completed as the capstone case study for the Google Data Analyt
 
 Live Dashboard: [Cyclistic Bike Share Analysis Dashboard] (https://public.tableau.com/app/profile/pranali.nagathan/viz/CyclisticBikeShareAnalysisDashboard_17798624750590/Dashboard1?publish=yes)
 
-Business Objective
+### Business Objective
 Analyze customer riding behaviour to identify differences between casual riders and annual members and support strategies for converting casual riders into annual members.
 
-Features
+### Features
 * Interactive Tableau dashboard
 * Analysis of data containing over 5.5 million bike trip records.
 * Monthly and weekly ride trend analysis
@@ -16,14 +16,14 @@ Features
 * Interactive filters and visualizations
 * Business-focused insights and storytelling
 
-Tech Stack
+### Tech Stack
 * Tableau Desktop
 * Tableau Public
 * CSV Datasets
 * Calculated Fields
 * Data Visualization
 
-Data Preparation
+### Data Preparation
 * Combined multiple yearly trip datasets using Tableau wildcard union
 * Handled missing and inconsistent values
 * Formatted date and time fields for trend analysis
@@ -33,7 +33,7 @@ Data Preparation
     * Start Weekday
     * Start Time
 
-Dataset
+### Dataset
 * Ride IDs
 * Bike Types
 * Ride Start and End Timestamps
@@ -43,7 +43,7 @@ Dataset
 * Ride Start Weekday
 
 
-Dashboard Insights
+### Dashboard Insights
 1. Peak riding periods across months and weekdays
 2. Differences in riding patterns between members and casual riders
 3. Average ride duration trends
